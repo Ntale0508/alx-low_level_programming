@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - the entery point of the program
+ * main - this is the entry point of a program
  *
- * Return: 0 after success 
+ * Return: 0 when successful
  */
 
 int main(void)
 {
-        printf("with proper grammar, but the outcome is a piece of art,");
+
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
